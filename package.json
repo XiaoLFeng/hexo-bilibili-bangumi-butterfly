@@ -1,5 +1,5 @@
 {
-  "name": "hexo-bilibili-bangumi-butterfly",
+  "name": "hexo-bangumi-butterfly",
   "version": "1.5.1",
   "description": "hexo bilibili (butterfly)番剧列表",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "standard --fix",
     "build": "babel src/index.js --out-file index.js && babel src/lib/util.js --out-file lib/util.js && babel src/lib/bangumi-generator.js --out-file lib/bangumi-generator.js && babel src/lib/templates/index.js --out-file lib/templates/index.js --presets minify && babel src/lib/templates/pagination.js --out-file lib/templates/pagination.js --presets minify && cleancss src/lib/templates/index.css -O2 -o lib/templates/index.css"
   },
-  "author": "筱锋xiao_lfeng <gm@x-lf.cn>",
+  "author": "xiao_lfeng <gm@x-lf.cn>",
   "license": "Apache Licence 2.0",
   "keywords": [
     "generator",

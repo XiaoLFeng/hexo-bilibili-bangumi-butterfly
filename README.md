@@ -9,18 +9,18 @@
 
 ## 部署
 
-Github：[https://github.com/HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
+Github：[https://github.com/XiaoLFeng/hexo-bilibili-bangumi-butterfly](https://github.com/XiaoLFeng/hexo-bilibili-bangumi-butterfly)
 
 安装代码：
 
 ```powershell
-npm install hexo-bilibili-bangumi --save
+npm install hexo-bilibili-bangumi-butterfly --save
 ```
 
 升级代码：
 
 ```powershell
-npm install hexo-bilibili-bangumi --update --save
+npm install hexo-bilibili-bangumi-butterfly --update --save
 ```
 
 将下面的配置写入站点的配置文件 **<font color="red">_config.yml</font>** 里(不是主题的配置文件).
@@ -81,4 +81,4 @@ hexo bangumi -u && hexo clean && hexo g -d
 
 ## Lisense
 
-[Apache Licence 2.0](https://github.com/HCLonely/hexo-bilibili-bangumi/blob/master/LICENSE)
+[Apache Licence 2.0](https://github.com/XiaoLFeng/hexo-bilibili-bangumi-butterfly/blob/master/LICENSE)
