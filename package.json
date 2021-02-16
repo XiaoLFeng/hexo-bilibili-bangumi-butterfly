@@ -1,6 +1,6 @@
 {
   "name": "hexo-bangumi-butterfly",
-  "version": "1.5.1",
+  "version": "1.0.0",
   "description": "hexo bilibili (butterfly)番剧列表",
   "main": "index.js",
   "scripts": {

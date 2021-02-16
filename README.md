@@ -14,13 +14,13 @@ Github：[https://github.com/XiaoLFeng/hexo-bilibili-bangumi-butterfly](https://
 安装代码：
 
 ```powershell
-npm install hexo-bilibili-bangumi-butterfly --save
+npm install hexo-bangumi-butterfly --save
 ```
 
 升级代码：
 
 ```powershell
-npm install hexo-bilibili-bangumi-butterfly --update --save
+npm install hexo-bangumi-butterfly --update --save
 ```
 
 将下面的配置写入站点的配置文件 **<font color="red">_config.yml</font>** 里(不是主题的配置文件).
